@@ -1,11 +1,5 @@
 # Analyzing-Unemployment-Rates-During-COVID-19
 
-Here's a `README.md` file for your unemployment rate analysis project. It provides a clear overview of the project, setup instructions, and how to run the analysis.
-
----
-
-# Unemployment Rate Analysis During COVID-19
-
 ## Project Overview
 
 This project involves analyzing unemployment rates during the COVID-19 pandemic. The goal is to understand the trends and forecast future unemployment rates using time series analysis. The project includes data cleaning, visualization, and ARIMA modeling.
